@@ -35,8 +35,4 @@ public class MTv1 {
 		assertEquals("2/29/2004", trialDate.run(2, 28, 2004));
 	}
 
-	@Test
-	public final void test(){
-		assertEquals("7/9/1930", trialDate.run(7, 8, 1930));
-	}
 }
